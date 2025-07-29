@@ -1,4 +1,4 @@
-# 💻 Aplicación Java Swing: Gestión de Dispositivos con Imagen
+#  Aplicación Java Swing: Gestión de Dispositivos con Imagen
 
 Este proyecto es una aplicación de escritorio desarrollada en Java usando Swing, que permite registrar, visualizar, modificar y eliminar dispositivos electrónicos desde una interfaz gráfica conectada a una base de datos. La aplicación también permite asociar imágenes a cada registro, haciendo la gestión más visual e intuitiva.
 
